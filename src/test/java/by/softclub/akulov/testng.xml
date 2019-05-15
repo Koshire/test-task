@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite">
+    <test name="First" >
+        <classes>
+            <class name="by.softclub.akulov.tests.TestFirst" />
+        </classes>
+    </test>
+    <test name="Second" >
+        <classes>
+            <class name="by.softclub.akulov.tests.TestSecond" />
+        </classes>
+    </test>
+    <test name="Third" >
+        <classes>
+            <class name="by.softclub.akulov.tests.TestThird" />
+        </classes>
+    </test>
+</suite>
